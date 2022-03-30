@@ -4,8 +4,9 @@ Programo desde os 12 anos envolvendo na área de Minecraft usando linguagem Java
 
 <div align="center">
   <a href="https://github.com/KingTimer12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KingTimer12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingTimer12&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KingTimer12&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingTimer12&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=KingTimer12&repo=weeble&theme=gotham"/>
 </div>
   
 <div align="center">
