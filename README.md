@@ -1,6 +1,6 @@
 ## Hello King ╰(*°▽°*)╯
 
-Programo desde os 12 anos envolvendo na área de Minecraft usando linguagem Java e atualmente estudando JavaScript.
+Programo desde os 12 anos na área de Minecraft usando linguagem Java e atualmente estudando JavaScript.
 
 <div align="center">
   <a href="https://github.com/KingTimer12">
