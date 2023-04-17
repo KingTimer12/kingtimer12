@@ -20,10 +20,11 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
   
 **Back-End**
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
+  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
 
 **Banco de Dados**
 
