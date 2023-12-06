@@ -46,7 +46,6 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingtimer12&show_icons=true&theme=dracula&line_height=27" alt="**Aaron King** github stats"/>
 </a>
 
 [twitter]: https://twitter.com/KingTimer12
