@@ -7,7 +7,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 &nbsp; Aprendendo mais sobre **Lua e Flutter**.
+- 🌱 &nbsp; Aprendendo mais sobre **Lua, C, C++ e Assembly**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
